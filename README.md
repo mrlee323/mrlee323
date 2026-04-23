@@ -54,7 +54,7 @@
 * 🏢 **Experience:** 프론트엔드 개발 4년차 (React/Next.js 생태계)
 * 🚀 Working on: AI 기반 어드민 자동화 솔루션 구축을 통한 개발 생산성 극대화
 * 🔍 Focus: 고트래픽 환경에서의 프론트엔드 성능 최적화 및 AI 기술의 서비스 실무 도입
-* ✍️ **Blog:** [블로그](https://tech-blog-mrlee323s-projects.vercel.app/)
+* ✍️ **Blog:** [블로그](https://mrlee323.github.io)
 ---
 
 ### 📫 Connect with me
